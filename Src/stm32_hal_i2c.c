@@ -3,3 +3,4 @@ add comment
 /* Can you provide a C coding rules document for external */
 /* contributions */
 
+/*new comment added*/
